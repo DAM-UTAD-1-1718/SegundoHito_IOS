@@ -7,14 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A0EA6592076476B00AA5994 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0EA6582076476B00AA5994 /* AppDelegate.swift */; };
+		1A0EA65B2076476B00AA5994 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0EA65A2076476B00AA5994 /* ViewController.swift */; };
+		1A0EA65E2076476B00AA5994 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A0EA65C2076476B00AA5994 /* Main.storyboard */; };
+		1A0EA6612076476B00AA5994 /* TrabajoFinal.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1A0EA65F2076476B00AA5994 /* TrabajoFinal.xcdatamodeld */; };
+		1A0EA6632076476B00AA5994 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A0EA6622076476B00AA5994 /* Assets.xcassets */; };
+		1A0EA6662076476B00AA5994 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A0EA6642076476B00AA5994 /* LaunchScreen.storyboard */; };
 		1A0EA66E20764A1700AA5994 /* eliminar-pis-de-gato.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1A0EA66D20764A1700AA5994 /* eliminar-pis-de-gato.jpg */; };
-		1AB2632E207CD2E000000B98 /* SegundoHito in Resources */ = {isa = PBXBuildFile; fileRef = 1AB2632D207CD2E000000B98 /* SegundoHito */; };
+		1A0EA670207671D900AA5994 /* VCColeccion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0EA66F207671D900AA5994 /* VCColeccion.swift */; };
+		1A0EA67220767A6900AA5994 /* VCPrincipal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0EA67120767A6900AA5994 /* VCPrincipal.swift */; };
+		1A0EA674207681FF00AA5994 /* TVCMiCelda.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0EA673207681FF00AA5994 /* TVCMiCelda.swift */; };
+		1A6BF6EC20769B62003C8626 /* CVCMicelda2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6BF6EB20769B62003C8626 /* CVCMicelda2.swift */; };
+		1A6BF6F220769F81003C8626 /* caballo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A6BF6ED20769F7F003C8626 /* caballo.png */; };
+		1A6BF6F320769F81003C8626 /* huron.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A6BF6EE20769F80003C8626 /* huron.png */; };
+		1A6BF6F420769F81003C8626 /* perro.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A6BF6EF20769F80003C8626 /* perro.png */; };
+		1A6BF6F520769F81003C8626 /* canario.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A6BF6F020769F80003C8626 /* canario.png */; };
+		1A6BF6F620769F81003C8626 /* gato.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A6BF6F120769F80003C8626 /* gato.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1A0EA6552076476B00AA5994 /* TrabajoFinal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrabajoFinal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A0EA6582076476B00AA5994 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1A0EA65A2076476B00AA5994 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1A0EA65D2076476B00AA5994 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1A0EA6602076476B00AA5994 /* TrabajoFinal.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TrabajoFinal.xcdatamodel; sourceTree = "<group>"; };
+		1A0EA6622076476B00AA5994 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1A0EA6652076476B00AA5994 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1A0EA6672076476B00AA5994 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A0EA66D20764A1700AA5994 /* eliminar-pis-de-gato.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "eliminar-pis-de-gato.jpg"; sourceTree = "<group>"; };
-		1AB2632D207CD2E000000B98 /* SegundoHito */ = {isa = PBXFileReference; lastKnownFileType = folder; path = SegundoHito; sourceTree = "<group>"; };
+		1A0EA66F207671D900AA5994 /* VCColeccion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCColeccion.swift; sourceTree = "<group>"; };
+		1A0EA67120767A6900AA5994 /* VCPrincipal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCPrincipal.swift; sourceTree = "<group>"; };
+		1A0EA673207681FF00AA5994 /* TVCMiCelda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TVCMiCelda.swift; sourceTree = "<group>"; };
+		1A6BF6EB20769B62003C8626 /* CVCMicelda2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CVCMicelda2.swift; sourceTree = "<group>"; };
+		1A6BF6ED20769F7F003C8626 /* caballo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = caballo.png; sourceTree = "<group>"; };
+		1A6BF6EE20769F80003C8626 /* huron.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = huron.png; sourceTree = "<group>"; };
+		1A6BF6EF20769F80003C8626 /* perro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = perro.png; sourceTree = "<group>"; };
+		1A6BF6F020769F80003C8626 /* canario.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = canario.png; sourceTree = "<group>"; };
+		1A6BF6F120769F80003C8626 /* gato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gato.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,8 +60,8 @@
 		1A0EA64C2076476B00AA5994 = {
 			isa = PBXGroup;
 			children = (
-				1AB2632D207CD2E000000B98 /* SegundoHito */,
 				1A0EA66D20764A1700AA5994 /* eliminar-pis-de-gato.jpg */,
+				1A0EA6572076476B00AA5994 /* TrabajoFinal */,
 				1A0EA6562076476B00AA5994 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,6 +72,29 @@
 				1A0EA6552076476B00AA5994 /* TrabajoFinal.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		1A0EA6572076476B00AA5994 /* TrabajoFinal */ = {
+			isa = PBXGroup;
+			children = (
+				1A6BF6ED20769F7F003C8626 /* caballo.png */,
+				1A6BF6F020769F80003C8626 /* canario.png */,
+				1A6BF6F120769F80003C8626 /* gato.png */,
+				1A6BF6EE20769F80003C8626 /* huron.png */,
+				1A6BF6EF20769F80003C8626 /* perro.png */,
+				1A0EA6582076476B00AA5994 /* AppDelegate.swift */,
+				1A0EA65A2076476B00AA5994 /* ViewController.swift */,
+				1A0EA65C2076476B00AA5994 /* Main.storyboard */,
+				1A0EA6622076476B00AA5994 /* Assets.xcassets */,
+				1A0EA6642076476B00AA5994 /* LaunchScreen.storyboard */,
+				1A0EA6672076476B00AA5994 /* Info.plist */,
+				1A0EA65F2076476B00AA5994 /* TrabajoFinal.xcdatamodeld */,
+				1A0EA66F207671D900AA5994 /* VCColeccion.swift */,
+				1A0EA67120767A6900AA5994 /* VCPrincipal.swift */,
+				1A0EA673207681FF00AA5994 /* TVCMiCelda.swift */,
+				1A6BF6EB20769B62003C8626 /* CVCMicelda2.swift */,
+			);
+			path = TrabajoFinal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -81,7 +133,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1A0EA6502076476B00AA5994 /* Build configuration list for PBXProject "SegundoHito" */;
+			buildConfigurationList = 1A0EA6502076476B00AA5994 /* Build configuration list for PBXProject "TrabajoFinal" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -104,8 +156,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1AB2632E207CD2E000000B98 /* SegundoHito in Resources */,
+				1A0EA6662076476B00AA5994 /* LaunchScreen.storyboard in Resources */,
+				1A6BF6F420769F81003C8626 /* perro.png in Resources */,
+				1A6BF6F620769F81003C8626 /* gato.png in Resources */,
+				1A0EA6632076476B00AA5994 /* Assets.xcassets in Resources */,
+				1A6BF6F520769F81003C8626 /* canario.png in Resources */,
+				1A0EA65E2076476B00AA5994 /* Main.storyboard in Resources */,
 				1A0EA66E20764A1700AA5994 /* eliminar-pis-de-gato.jpg in Resources */,
+				1A6BF6F320769F81003C8626 /* huron.png in Resources */,
+				1A6BF6F220769F81003C8626 /* caballo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -116,10 +175,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A0EA670207671D900AA5994 /* VCColeccion.swift in Sources */,
+				1A0EA674207681FF00AA5994 /* TVCMiCelda.swift in Sources */,
+				1A0EA6612076476B00AA5994 /* TrabajoFinal.xcdatamodeld in Sources */,
+				1A0EA67220767A6900AA5994 /* VCPrincipal.swift in Sources */,
+				1A0EA65B2076476B00AA5994 /* ViewController.swift in Sources */,
+				1A0EA6592076476B00AA5994 /* AppDelegate.swift in Sources */,
+				1A6BF6EC20769B62003C8626 /* CVCMicelda2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1A0EA65C2076476B00AA5994 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1A0EA65D2076476B00AA5994 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1A0EA6642076476B00AA5994 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1A0EA6652076476B00AA5994 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		1A0EA6682076476B00AA5994 /* Debug */ = {
@@ -260,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1A0EA6502076476B00AA5994 /* Build configuration list for PBXProject "SegundoHito" */ = {
+		1A0EA6502076476B00AA5994 /* Build configuration list for PBXProject "TrabajoFinal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1A0EA6682076476B00AA5994 /* Debug */,
@@ -279,6 +364,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		1A0EA65F2076476B00AA5994 /* TrabajoFinal.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				1A0EA6602076476B00AA5994 /* TrabajoFinal.xcdatamodel */,
+			);
+			currentVersion = 1A0EA6602076476B00AA5994 /* TrabajoFinal.xcdatamodel */;
+			path = TrabajoFinal.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 1A0EA64D2076476B00AA5994 /* Project object */;
 }
